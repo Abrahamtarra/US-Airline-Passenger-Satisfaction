@@ -1,7 +1,9 @@
-Cyclistic Project
+US Airline Passenger Satisfaction
+
+by Abraham Adiguna Kurnia Tarra
 ==============================
 
-Design marketing strategies aimed at converting casual riders into annual members.
+Suatu maskapai penerbangan melakukan survei dengan tujuan untuk mengetahui kepuasan penumpang agar dapat meningkatkan kualitas pelayanan maskapai yang akan berdampak pada kinerja perusahaan, baik secara finansial maupun non-finansial.
 
 Project Organization
 ------------
@@ -47,4 +49,3 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
